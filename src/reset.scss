@@ -91,3 +91,41 @@ textarea:not([rows]) {
 :target {
 	scroll-margin-block: 5ex;
 }
+
+input[type='text'],
+input[type='search'],
+input[type='number'],
+input[type='tel'],
+input[type='date'],
+input[type='email'],
+input[type='password'],
+input:not([class]) {
+	border-radius: initial;
+	border: initial;
+	display: initial;
+	width: initial;
+	background-color: initial;
+	background-image: initial;
+	background-clip: initial;
+}
+
+input[type='text']:focus,
+input[type='text']:focus-within,
+input[type='search']:focus,
+input[type='search']:focus-within,
+input[type='number']:focus,
+input[type='number']:focus-within,
+input[type='tel']:focus,
+input[type='tel']:focus-within,
+input[type='date']:focus,
+input[type='date']:focus-within,
+input[type='email']:focus,
+input[type='email']:focus-within,
+input[type='password']:focus,
+input[type='password']:focus-within,
+input:not([class]):focus,
+input:not([class]):focus-within {
+	box-shadow: none;
+	border-color: none;
+	transition: none;
+}
