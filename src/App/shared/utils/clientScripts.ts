@@ -17,7 +17,7 @@ async function getContacts(): Promise<FetchData<ContactItem>> {
 			id: 'test',
 			data: {
 				comment: new ItemDataString('sfsaf'),
-				email: new ItemDataString('sfsaf'),
+				email: new ItemDataString('turbo69nice@gmail.com, glovindan@gmail.com'),
 				fullname: new ItemDataString('sfsaf'),
 				phone: new ItemDataString('sfsaf'),
 				position: new ItemDataString('sfsaf'),
@@ -28,7 +28,7 @@ async function getContacts(): Promise<FetchData<ContactItem>> {
 			id: 'test',
 			data: {
 				comment: new ItemDataString('sfsaf'),
-				email: new ItemDataString('sfsaf'),
+				email: new ItemDataString('turbo69nice@gmail.com, glovindan@gmail.com'),
 				fullname: new ItemDataString('sfsaf'),
 				phone: new ItemDataString('sfsaf'),
 				position: new ItemDataString('sfsaf'),
@@ -39,7 +39,7 @@ async function getContacts(): Promise<FetchData<ContactItem>> {
 			id: 'test',
 			data: {
 				comment: new ItemDataString('sfsaf'),
-				email: new ItemDataString('sfsaf'),
+				email: new ItemDataString('turbo69nice@gmail.com, glovindan@gmail.com'),
 				fullname: new ItemDataString('sfsaf'),
 				phone: new ItemDataString('sfsaf'),
 				position: new ItemDataString('sfsaf'),
@@ -50,7 +50,7 @@ async function getContacts(): Promise<FetchData<ContactItem>> {
 			id: 'test',
 			data: {
 				comment: new ItemDataString('sfsaf'),
-				email: new ItemDataString('sfsaf'),
+				email: new ItemDataString('turbo69nice@gmail.com, glovindan@gmail.com'),
 				fullname: new ItemDataString('sfsaf'),
 				phone: new ItemDataString('sfsaf'),
 				position: new ItemDataString('sfsaf'),
